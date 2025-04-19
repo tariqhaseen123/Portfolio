@@ -10,6 +10,10 @@ scrollbar-width: thin;
   
 
 }
+.top{
+    padding-bottom:10%;
+    margin-top: -50%;
+}
 
   body {
     height: 100%;
